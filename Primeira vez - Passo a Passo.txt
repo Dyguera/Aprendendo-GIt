@@ -1,0 +1,9 @@
+-Baixar git pc
+-Entrar cmd na pasta com projeto
+-git init (turns into a git reposetore)
+-git status (verificar se deu certo)
+-git add . (avisar qual arquivo escutar)
+-git commit -m "Identificação do commit"
+-Criar repositorio no github
+-git remote add origin "url" (origin geralmente é o github)
+-Git push origin master

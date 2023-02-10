@@ -1,1 +1,1 @@
-console.log("assets1")
+console.log("assets2")
